@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 16      |
 |-----------------|
 | Student 1 Ayman Shahriar                |   
 | Student 2 Harmandeep Teja              |   
